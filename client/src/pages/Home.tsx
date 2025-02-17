@@ -15,7 +15,7 @@ export default function Home() {
       <div className="space-y-8">
         <div>
           <h1 className="text-4xl font-bold">Welcome Back!</h1>
-          <p className="text-muted-foreground">Track your gaming achievements</p>
+          <p className="text-muted-foreground">Real life achievements</p>
         </div>
 
         <Card className="p-6">
